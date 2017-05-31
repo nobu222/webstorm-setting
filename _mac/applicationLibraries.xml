@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="aframe" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_aframe.io_releases_0.5.0_aframe.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_aframe.io_releases_0.5.0_aframe.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="axios" type="javaScript">
       <properties>
         <sourceFilesUrls>
