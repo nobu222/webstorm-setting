@@ -11,6 +11,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="aframe-text-geometry-component" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_aframe-text-geometry-component@^0.5.0_dist_aframe-text-geometry-component.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_aframe-text-geometry-component@^0.5.0_dist_aframe-text-geometry-component.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="axios" type="javaScript">
       <properties>
         <sourceFilesUrls>
