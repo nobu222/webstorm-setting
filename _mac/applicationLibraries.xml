@@ -11,6 +11,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="aframe-always-fullscreen-component" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_rawgit.com_protyze_aframe-always-fullscreen-component_master_dist_aframe-always-fullscreen-component.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_rawgit.com_protyze_aframe-always-fullscreen-component_master_dist_aframe-always-fullscreen-component.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="aframe-text-geometry-component" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -64,6 +75,17 @@
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_lodash_4.17.4_lodash.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_lodash.js_4.17.4_lodash.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="platform" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_rawgit.com_bestiejs_platform.js_master_platform.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_rawgit.com_bestiejs_platform.js_master_platform.js" />
       </CLASSES>
       <SOURCES />
     </library>
