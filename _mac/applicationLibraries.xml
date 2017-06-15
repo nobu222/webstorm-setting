@@ -1,0 +1,26 @@
+<application>
+  <component name="libraryTable">
+    <library name="aframe" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_aframe.io_releases_0.5.0_aframe.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_aframe.io_releases_0.5.0_aframe.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="aframe-particle-system-component" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_aframe-particle-system-component@1.0.9_dist_aframe-particle-system-component.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_aframe-particle-system-component@1.0.9_dist_aframe-particle-system-component.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
