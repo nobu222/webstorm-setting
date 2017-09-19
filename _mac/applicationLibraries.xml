@@ -22,6 +22,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="d3.v4" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_d3js.org_d3.v4.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_d3js.org_d3.v4.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="jquery" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
@@ -35,6 +46,17 @@
       <DOCUMENTATION>
         <root url="http://api.jquery.com" />
       </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="techan" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_techanjs.org_techan.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_techanjs.org_techan.js" />
+      </CLASSES>
       <SOURCES />
     </library>
     <library name="uikit" type="javaScript">
