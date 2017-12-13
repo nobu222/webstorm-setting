@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="44e912114c" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_use.fontawesome.com_44e912114c.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_use.fontawesome.com_44e912114c.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="aframe" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -33,6 +44,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="d3" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_d3_3.5.17_d3.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_d3_3.5.17_d3.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="d3.v4" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -41,6 +63,17 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_d3js.org_d3.v4.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="epoch" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_epoch_0.8.4_js_epoch.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_epoch_0.8.4_js_epoch.js" />
       </CLASSES>
       <SOURCES />
     </library>
