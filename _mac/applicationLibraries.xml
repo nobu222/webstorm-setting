@@ -11,6 +11,10 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="@types/mockjs" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="aframe" type="javaScript">
       <properties>
         <sourceFilesUrls>
